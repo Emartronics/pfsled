@@ -1,0 +1,24 @@
+Language: en_US
+SunDog Engine / Jan  8 2016 10:53:03
+MAIN: device start
+MAIN: screen_angle = 0
+MAIN: screen_zoom = 1
+MAIN: screen_ppi = 110
+MAIN: screen_scale = 256 / 256
+MAIN: screen_xsize = 800
+MAIN: screen_ysize = 600
+MAIN: system palette init
+MAIN: wmanager initialized
+DSOUND init...
+Found output device 0: Primary Sound Driver
+Found output device 1: Speakers (Realtek High Definition Audio)
+Found output device 2: Realtek Digital Output (Realtek High Definition Audio)
+DSOUND: selected device: -1
+DSOUND thread starting...
+DSOUND play
+SOUND: sound_stream_deinit() begin
+SOUND: sound_stream_deinit() end
+Max memory used: 10769555
+SOUND: sound_stream_deinit() begin
+SOUND: sound_stream_deinit() end
+Max memory used: 11323806

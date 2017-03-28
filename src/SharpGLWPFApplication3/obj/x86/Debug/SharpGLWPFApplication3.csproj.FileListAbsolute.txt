@@ -1,0 +1,38 @@
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.exe.config
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.exe
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.pdb
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.dll
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.dll
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.pdb
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.xml
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.xml
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\App.g.cs
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3_MarkupCompile.cache
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.g.resources
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.Properties.Resources.resources
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.exe
+C:\Users\Owner\Desktop\New folder\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.pdb
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.exe.config
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.exe
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGLWPFApplication3.pdb
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.dll
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.pdb
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\bin\Debug\SharpGL.WPF.xml
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\App.g.cs
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3_MarkupCompile.cache
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.g.resources
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.Properties.Resources.resources
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.csproj.GenerateResource.Cache
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.exe
+C:\Users\Home\!_DEV_!\CS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGL with SHADERS\SharpGLWPFApplication3\SharpGLWPFApplication3\obj\x86\Debug\SharpGLWPFApplication3.pdb

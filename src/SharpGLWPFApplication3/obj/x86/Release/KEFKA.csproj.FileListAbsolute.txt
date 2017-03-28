@@ -1,0 +1,16 @@
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\KefkaMatic.exe.config
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KefkaMatic.exe
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KefkaMatic.pdb
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\KefkaMatic.exe
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\KefkaMatic.pdb
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\SharpGL.WPF.dll
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\SharpGL.WPF.pdb
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\bin\Release\SharpGL.WPF.xml
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KEFKA.csprojResolveAssemblyReference.cache
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\MainWindow.baml
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\MainWindow.g.cs
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\App.g.cs
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KefkaMatic_MarkupCompile.cache
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KefkaMatic.g.resources
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KefkaMatic.Properties.Resources.resources
+C:\Users\Home\!_GIT_!\KefkaMatic\src\SharpGLWPFApplication3\obj\x86\Release\KEFKA.csproj.GenerateResource.Cache
